@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437322149023",
+    "firebase_url": "https://phonebook-cefb8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "phonebook-cefb8",
+    "storage_bucket": "phonebook-cefb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437322149023:android:f0f8bfe24fa3bf8e4886aa",
+        "android_client_info": {
+          "package_name": "com.example.phone_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437322149023-cbbhhjv9m76t97rksiikfsf3ntippcsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXS-VLEOeAieBrLbKy8T2b10nbHaF4vqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437322149023-cbbhhjv9m76t97rksiikfsf3ntippcsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
